@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 2 rem 1rem;
   background-color: #e2edff;
 }
 
@@ -9,4 +9,19 @@
 
 section {
   padding-top: 5rem;
+}
+
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: #f3f3f3;
+  text-align: center;
+}
+.section-title {
+  margin-bottom: 2rem;
+}
+footer {
+  background-color: #0d6efd;
+  color: white;
+  padding: 1rem;
+  text-align: center;
 }
